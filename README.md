@@ -1,5 +1,5 @@
 # 表情包小项目介绍
-![](../../../../前端范~1/AppData/Local/Temp/99458509.jpg)
+![](https://avatars.githubusercontent.com/u/99458509?v=4)
 #### 原创作者: Thorleying 
 #### 作者Github: https://github.com/Thorleying
 
