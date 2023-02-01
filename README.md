@@ -10,15 +10,15 @@
 
 标签：推荐、美女、丘比龙、搞笑、恶搞、皮皮虾、熊本熊等
 
-![](../../../../前端范~1/AppData/Local/Temp/img.png)
+![](https://thorleying.work/bbq/upload/img.png)
 
 ### 头像
 通过分类标签来进行一个筛选和展示
 
 标签：男生头像、女生头像、情侣头像、闺蜜头像、兄弟头像等
 
-![](../../../../前端范~1/AppData/Local/Temp/img_1.png)
+![](https://thorleying.work/bbq/upload/img_1.png)
 
 ### 壁纸
 没有标签分类 直接进行查看选择
-![](../../../../前端范~1/AppData/Local/Temp/img_2.png)
+![](https://thorleying.work/bbq/upload/img_2.png)
